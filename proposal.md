@@ -1,4 +1,4 @@
-# Title
+# Title - the cheese factory game
 
 ## Repository
 https://github.com/cheesepuffsxd/Cheesefactory
